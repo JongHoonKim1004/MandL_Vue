@@ -1,0 +1,127 @@
+@charset "utf-8";
+
+#App {
+  width: 1450px;
+  height: auto;
+  margin: 30px auto;
+}
+.notice-title {
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  font-size: 30px;
+  line-height: 30px;
+  padding: 30px 0;
+}
+.notice-content {
+  width: 100%;
+  height: auto;
+  padding: 20px 0;
+  
+}
+
+#list {
+  margin: 20px auto;
+  width: 80%;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #d8d8d8;
+  line-height: 20px;
+}
+
+#list tr:hover {background-color: #eee;}
+
+#list tr th {
+  padding: 5px;
+  border-bottom: 1px solid #d8d8d8;
+}
+
+#list tr td {
+  padding: 5px;
+  border-bottom: 1px solid #d8d8d8;
+}
+
+#listBtn {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.listButton {
+  float: right;
+  margin-right: 20px;
+}
+
+.readDiv {
+  width:80%;
+  height: 500px;
+  background-color: #d8d8d8;
+  border:1px solid #d8d8d8;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+.readTbl {
+  width: 100%;
+  height: 450px;
+}
+
+.readTitle {
+  width: 100%;
+  height: 100px;
+  line-height:30px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid white;
+}
+
+.readContent {
+  width: 100%;
+  height: 350px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.writeDiv {
+  width:80%;
+  height: 500px;
+  background-color: #d8d8d8;
+  border:1px solid #d8d8d8;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+#writeTbl {
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.writeBtnDiv {
+  width: 100%;
+}
+
+.writeBtnDiv > button {
+  margin: 0 10px;
+  float: right;
+}
+
+.writeTitle {
+  width: 100%;
+  height: 100px;
+  line-height:30px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid white;
+}
+
+.writeContent {
+  width: 100%;
+  height: 350px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
