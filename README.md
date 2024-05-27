@@ -1,4 +1,9 @@
-<h1 align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEcaiKyEdgwipuB7TlxdMTTupx978yqXkM6yC4d5AEkw&s" style="width: 300; height: 300;"></h1>
+<h1 align="center">
+
+![MarkAndLona2](https://github.com/JongHoonKim1004/MandL_Vue/assets/155927559/b3605602-341d-43b0-aa6f-0c9fb2225cb6)
+
+                     
+</h1>
 <h1 align="center">HTML + Vue.js 온라인 쇼핑몰 프로젝트</h1>
 <br/><br/>
 
